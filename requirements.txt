@@ -1,0 +1,11 @@
+openai==0.28
+tiktoken 
+chromadb==0.3.29
+langchain
+#pysqlite3-binary
+flask
+GitPython
+python-dotenv
+gunicorn
+langchain-community
+-e .
